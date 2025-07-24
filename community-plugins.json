@@ -18023,5 +18023,12 @@
     "author": "isitwho",
     "description": "Select text in your editor to find the most similar content from other notes and easily create links.",
     "repo": "isitwho/EasyLink"
+  },
+  {
+    "id": "sindhu-indic-script-converter",
+    "name": "Sindhu (Indic Script Converter)",
+    "author": "Anant Upadhyayula",
+    "description": "Transforms Sanskrit and Indic scripts with elegance and control. Example, rAma 🔁 राम, রাম, ਰਾਮ, રામ, ରାମ, ராம, రామ, ರಾಮ, രാമ—and vice versa. Whether you're working with transliterated text or native scripts, Sindhu makes script conversion effortless and accurate.",
+    "repo": "sasiperi/sindhu-indic-script-converter"
   }
 ]
