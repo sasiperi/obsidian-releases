@@ -18018,17 +18018,17 @@
     "repo": "isitwho/EasyLink"
   },
   {
-    "id": "sindhu-indic-script-converter",
-    "name": "Sindhu (Indic Script Converter)",
-    "author": "Anant Upadhyayula",
-    "description": "Transforms Sanskrit and Indic scripts with elegance and control. Example, rAma 🔁 राम, রাম, ਰਾਮ, રામ, ରାମ, ராம, రామ, ರಾಮ, രാമ—and vice versa. Whether you're working with transliterated text or native scripts, Sindhu makes script conversion effortless and accurate.",
-    "repo": "sasiperi/sindhu-indic-script-converter"
-  },
-  {
     "id": "new-3d-graph",
     "name": "New 3D Graph",
     "author": "Aryan Gupta",
     "description": "Visualize your Vault in 3D with a powerful, highly customizable, and filterable graph.",
     "repo": "Apoo711/obsidian-3d-graph"
+  },
+  {
+    "id": "sindhu-indic-script-converter",
+    "name": "Sindhu (Indic Script Converter)",
+    "author": "Anant Upadhyayula",
+    "description": "Transforms Sanskrit and Indic scripts with elegance and control. Example, rAma 🔁 राम, রাম, ਰਾਮ, રામ, ରାମ, ராம, రామ, ರಾಮ, രാമ—and vice versa. Whether you're working with transliterated text or native scripts, Sindhu makes script conversion effortless and accurate.",
+    "repo": "sasiperi/sindhu-indic-script-converter"
   }
 ]
